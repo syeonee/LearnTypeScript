@@ -4,7 +4,7 @@ interface User {
 }
 
 //변수에 인터페이스 활용
-const seho: User = {
+const seho3: User = {
   age: 33,
   name: '세호'
 }
@@ -69,3 +69,5 @@ var capts: Developer = {
   name: 'cap',
   age: 100
 }
+
+

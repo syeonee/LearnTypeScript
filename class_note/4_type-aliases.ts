@@ -9,7 +9,7 @@ type Person1 = {
 }
 
 
-var syeon: Person = {
+var syeon: Person1 = {
   name: 'syeon',
   age: 20
 }
