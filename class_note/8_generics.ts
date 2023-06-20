@@ -82,7 +82,7 @@ interface ShoppingItem {
   stock: number;
 }
 
-function getShoppingItemOption<T extends keyof ShoppingItem>(itemOption: T): t{
+function getShoppingItemOption<T extends keyof ShoppingItem>(itemOption: T): T{
   return itemOption;
 }
 
